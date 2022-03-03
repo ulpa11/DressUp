@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="logos">
+    <file>logos/hanger.png</file>
+    <file>logos/qut.png</file>
+  </qresource>
+</RCC>
