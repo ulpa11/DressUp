@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="logos">
+    <file>logos/hanger (1).png</file>
+    <file>logos/hanger.png</file>
+    <file>logos/play-button.png</file>
+    <file>logos/PreviousBtnFm - Copy.png</file>
+    <file>logos/PreviousBtnFm.png</file>
+    <file>logos/qut.png</file>
+    <file>logos/setting1.png</file>
+    <file>logos/trash-bin.png</file>
+    <file>logos/trousers.png</file>
+    <file>logos/t-shirt.png</file>
+    <file>logos/add12.png</file>
+    <file>logos/boots.png</file>
+    <file>logos/cameraTabLogo.png</file>
+    <file>logos/fashion.png</file>
+    <file>logos/gjhgjh.png</file>
+    <file>logos/hanger.png</file>
+    <file>logos/qut.png</file>
+  </qresource>
+</RCC>
